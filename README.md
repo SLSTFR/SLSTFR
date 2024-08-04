@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello, my name is Samet (SLSTFR). I am currently working on improving my skills in the field of cybersec. I still see myself as an apprentice. I love black metal and tea.
 
+--My Blogspot --> [here](https://slstfr.blogspot.com)
+
 
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) heavendevourer
